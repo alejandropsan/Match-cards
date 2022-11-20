@@ -1,0 +1,8 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 305px;
+    width: 405px;
+    border: 2px double black;
+    background-image: url(images/bosque.jpg);
+}
